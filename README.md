@@ -1,2 +1,5 @@
 # turbo-waffle
-Working with Text - Odin Project
+Odin Project:
+
+Working with Text - Complete
+Lists - Complete
